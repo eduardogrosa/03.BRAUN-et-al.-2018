@@ -1,0 +1,34 @@
+28                 ! SuMAX
+300                ! Beta
+0.495              ! NUsolo
+15.10              ! GAMMAsolo
+28                 ! CsoloMAX
+0                  ! ATRIsolo 
+0                  ! DILAsolo
+1                  ! Ko
+0                  ! Esoloini
+0                  ! Sescini
+0.24               ! Dlinha
+2.43e7             ! Elinha
+0.30               ! NUlinha
+78.50              ! GAMMAlinha
+0.57735            ! FRIC
+-2.25e09           ! FKN
+-2.25e03           ! FKT
+.5                 ! discretsolo
+.05                ! discretlinha
+21                 ! npontos
+0                  ! Xmac1
+35                 ! Xmac2
+0                  ! Ymac1
+20                 ! Ymac2
+0                  ! Zmac1
+10                 ! Zmac2
+5                  ! DESLOCAx
+5                  ! DESLOCAy
+2135               ! Hagua
+2000               ! Flinha/Daplic
+1                  ! divtime
+
+
+!** Unidades : m, kN, rad, s                                               ***!
